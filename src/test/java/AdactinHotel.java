@@ -112,9 +112,10 @@ public class AdactinHotel extends BaseClass {
 
 	createNewCell("Datas", 0, 27, "Order Id");
 	createNewCell("Datas", 1 ,27,attribute);
+	System.out.println("metds1");
+	System.out.println("metds1");
 	
-	
-	
+	}
 	
 	
 	
